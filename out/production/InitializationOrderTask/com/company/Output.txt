@@ -1,0 +1,16 @@
+Parent. Static block
+Parent. Non-static block
+Parent. Default constructor
+Child. Static block
+Parent. Non-static block
+Parent. Default constructor
+Child. Non-static block
+Child. Default constructor
+Parent. Static variable
+Parent. Non-static variable
+Child. Static variable
+Child. Non-static variable
+Parent. Static method
+Parent. Non-static method
+Child. Static method
+Child. Non-static method
